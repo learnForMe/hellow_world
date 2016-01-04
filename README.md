@@ -1,2 +1,2 @@
 # hellow_world
-Capt. Fredrick Luchtman,
+This is my first repository
